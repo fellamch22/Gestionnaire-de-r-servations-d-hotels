@@ -1,2 +1,2 @@
-# Gestionnaire-de-r-servations-d-hotels
+# Gestionnaire-de-reservations-d-hotels
 Une application qui permet la gestion de réservations de plusieurs hôtels.
